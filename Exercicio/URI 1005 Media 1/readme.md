@@ -12,7 +12,7 @@ todos os problemas, não esqueça de imprimir o fim de linha após o resultado, 
 "Presentation Error".
 
  
-Exemplos de Entrada				Exemplos de Saída
+Exemplos de Entrada				Exemplos de Saída 
 5.0								MEDIA = 6.43182
 7.1
 
