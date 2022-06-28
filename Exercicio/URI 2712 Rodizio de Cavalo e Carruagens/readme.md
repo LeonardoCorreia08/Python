@@ -33,7 +33,7 @@ ABC-1234										FRIDAY
 XYZ-1010										FALHA
 AAA3333
 
-4												FALHA
+4										 		FALHA
 abc-1234										FALHA
 a-1010											FALHA
 ABCD-1234										SEGUNDA
